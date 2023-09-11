@@ -1,5 +1,5 @@
-# Capstone
-School Graduation Capstone (Fall 2014)
+# Style Space
+Source code (Fall 2014)
 
 Advisory Purchasing System
 
