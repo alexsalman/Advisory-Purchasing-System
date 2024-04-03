@@ -1,4 +1,4 @@
-# Style Space
+# Advisory Purchasing System
 Source code (Fall 2014)
 
 Advisory Purchasing System
